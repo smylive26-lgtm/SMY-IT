@@ -1,0 +1,5 @@
+Username,Is_Admin,Is_Section_Head,Is_Dept_Head,Is_IT_Head,Is_IT_Sec_Head,Is_IT_Dept_Head,Is_Super_Admin
+admin,True,True,True,False,True,True,True
+srm09814,True,True,True,False,True,True,True
+srm09298,True,True,True,False,True,True,False
+srm12399,True,True,True,,True,True,False

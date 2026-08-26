@@ -1,0 +1,11 @@
+streamlit
+
+openpyxl
+
+python-docx
+
+pypdf
+
+pandas
+
+google-genai
